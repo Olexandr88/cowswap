@@ -304,5 +304,5 @@ List of applications and their labels:
 # 📚 Technical Documentation
 
 1. [Oveall Architecture](docs/architecture-overview.md)
-2. [Amounts formatting](apps/cowswap-frontend/src/utils/amountFormat/README.md)
+2. [Amounts formatting](/cowprotocol/cowswap/blob/develop/README.md)
 3. [ABIs](libs/abis/README.md)
